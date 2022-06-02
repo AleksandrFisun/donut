@@ -21,8 +21,8 @@
     padding-top: 16px;
     padding-left: 33px;
     padding-bottom: 90px;
-
     max-width: 768px;
+    justify-content: flex-start;
   }
   .hero__section {
     @media screen and (max-width: 1279px) {
