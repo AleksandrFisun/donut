@@ -16,7 +16,6 @@
 
 .about-us__position {
   @include for-phone-up {
-    width: 279px;
     padding-bottom: 16px;
     padding-top: 16px;
   }
@@ -82,7 +81,6 @@
     font-size: 18px;
     line-height: 1.22;
   }
-
 }
 
 .about__p {
@@ -135,7 +133,7 @@
   @include for-phone-up {
     width: 67px;
     padding: 0;
-    color: #AB816C;
+    color: #ab816c;
     background: none;
     text-align: left;
     padding-top: 16px;
